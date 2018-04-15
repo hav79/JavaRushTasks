@@ -3,7 +3,7 @@ package com.javarush.task.task32.task3212;
 import com.javarush.task.task32.task3212.service.Service;
 
 /* 
-Service Locator
+Model Locator
 */
 
 public class Solution {
